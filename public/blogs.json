@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "cover": "https://i.ibb.co/8j74Vpn/lukas-blazek-Gnvurw-Js-Ka-Y-unsplash.jpg",
+    "title": "The Mystery of Midnight Manor",
+    "author": "Jennifer Smith",
+    "author_img": "https://example.com/authors/jennifer_smith.jpg",
+    "posted_date": "2024-05-07",
+    "reading_time": 2,
+    "hashtags": ["mystery", "suspense", "detective"]
+  },
+  {
+    "id": "002",
+    "cover": "https://i.ibb.co/8j74Vpn/lukas-blazek-Gnvurw-Js-Ka-Y-unsplash.jpg",
+    "title": "Under the Moonlight",
+    "author": "Daniel Johnson",
+    "author_img": "https://example.com/authors/daniel_johnson.jpg",
+    "posted_date": "2024-05-06",
+    "reading_time": 1,
+    "hashtags": ["romance", "drama", "love"]
+  },
+  {
+    "id": "003",
+    "cover": "https://i.ibb.co/8j74Vpn/lukas-blazek-Gnvurw-Js-Ka-Y-unsplash.jpg",
+    "title": "The Forgotten Kingdom",
+    "author": "Sarah Brown",
+    "author_img": "https://example.com/authors/sarah_brown.jpg",
+    "posted_date": "2024-05-05",
+    "reading_time": 3,
+    "hashtags": ["fantasy", "adventure", "magic"]
+  },
+  {
+    "id": "004",
+    "cover": "https://i.ibb.co/8j74Vpn/lukas-blazek-Gnvurw-Js-Ka-Y-unsplash.jpg",
+    "title": "Echoes of Eternity",
+    "author": "Matthew Davis",
+    "author_img": "https://example.com/authors/matthew_davis.jpg",
+    "posted_date": "2024-05-04",
+    "reading_time": 2,
+    "hashtags": ["sciencefiction", "timetravel", "future"]
+  },
+  {
+    "id": "005",
+    "cover": "https://i.ibb.co/8j74Vpn/lukas-blazek-Gnvurw-Js-Ka-Y-unsplash.jpg",
+    "title": "Whispers in the Dark",
+    "author": "Emma Wilson",
+    "author_img": "https://example.com/authors/emma_wilson.jpg",
+    "posted_date": "2024-05-03",
+    "reading_time": 2,
+    "hashtags": ["horror", "thriller", "dark"]
+  }
+]
